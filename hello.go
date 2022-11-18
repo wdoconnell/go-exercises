@@ -21,8 +21,3 @@ func main() {
 func foo() {
 	fmt.Println("Here's another line to run, in foo.")
 }
-
-// Control flow:
-// (1) sequential
-// (2) loop, iterative
-// (3) conditional
